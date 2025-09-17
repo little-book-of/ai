@@ -1,8 +1,11 @@
-# The Little Book of Algorithms
+# The Little Book of Artificial Intelligence
 
-A concise, beginner-friendly introduction to Algorithms.
+A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
+Numbers weave the world,
+algebra sings hidden forms,
+AI learns the tune.
 ```
 
 ## Formats
@@ -54,15 +57,14 @@ All contributions are welcome—small fixes, new examples, clarifications, figur
 
 ## Citation
 
-Nguyen, Duc-Tam (2025). *The Little Book of Algorithms (v0.1.0).* 
+Nguyen, Duc-Tam (2025). *The Little Book of Artificial Intelligence*
 
 ```
 @book{Nguyen2025TLBoAlgo,
   author = {Duc-Tam Nguyen},
-  title  = {The Little Book of Algorithms},
+  title  = {The Little Book of Artificial Intelligence},
   year   = {2025},
-  note   = {Version 0.1.0},
-  url    = {https://github.com/little-book-of/algorithms}
+  url    = {https://github.com/little-book-of/ai}
 }
 ```
 
