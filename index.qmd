@@ -1,0 +1,262 @@
+## Contents 
+
+#### Volume 1 — First Principles of AI
+
+1. Defining Intelligence, Agents, and Environments
+2. Objectives, Utility, and Reward
+3. Information, Uncertainty, and Entropy
+4. Computation, Complexity, and Limits
+5. Representation and Abstraction
+6. Learning vs. Reasoning: Two Paths to Intelligence
+7. Search, Optimization, and Decision-Making
+8. Data, Signals, and Measurement
+9. Evaluation: Ground Truth, Metrics, and Benchmarks
+10. Reproducibility, Tooling, and the Scientific Method
+
+#### Volume 2 — Mathematical Foundations
+
+11. Linear Algebra for Representations
+12. Differential and Integral Calculus
+13. Probability Theory Fundamentals
+14. Statistics and Estimation
+15. Optimization and Convex Analysis
+16. Numerical Methods and Stability
+17. Information Theory
+18. Graphs, Matrices, and Spectral Methods
+19. Logic, Sets, and Proof Techniques
+20. Stochastic Processes and Markov Chains
+
+#### Volume 3 — Data & Representation
+
+21. Data Lifecycle and Governance
+22. Data Models: Tensors, Tables, Graphs
+23. Feature Engineering and Encodings
+24. Labeling, Annotation, and Weak Supervision
+25. Sampling, Splits, and Experimental Design
+26. Augmentation, Synthesis, and Simulation
+27. Data Quality, Integrity, and Bias
+28. Privacy, Security, and Anonymization
+29. Datasets, Benchmarks, and Data Cards
+30. Data Versioning and Lineage
+
+#### Volume 4 — Search & Planning
+
+31. State Spaces and Problem Formulation
+32. Uninformed Search (BFS, DFS, Iterative Deepening)
+33. Informed Search (Heuristics, A\*)
+34. Constraint Satisfaction Problems
+35. Local Search and Metaheuristics
+36. Game Search and Adversarial Planning
+37. Planning in Deterministic Domains
+38. Probabilistic Planning and POMDPs
+39. Scheduling and Resource Allocation
+40. Meta-Reasoning and Anytime Algorithms
+
+#### Volume 5 — Logic & Knowledge
+
+41. Propositional and First-Order Logic
+42. Knowledge Representation Schemes
+43. Inference Engines and Theorem Proving
+44. Ontologies and Knowledge Graphs
+45. Description Logics and the Semantic Web
+46. Default, Non-Monotonic, and Probabilistic Logic
+47. Temporal, Modal, and Spatial Reasoning
+48. Commonsense and Qualitative Reasoning
+49. Neuro-Symbolic AI: Bridging Learning and Logic
+50. Knowledge Acquisition and Maintenance
+
+#### Volume 6 — Probabilistic Modeling & Inference
+
+51. Bayesian Inference Basics
+52. Directed Graphical Models (Bayesian Networks)
+53. Undirected Graphical Models (MRFs/CRFs)
+54. Exact Inference (Variable Elimination, Junction Tree)
+55. Approximate Inference (Sampling, Variational)
+56. Latent Variable Models and EM
+57. Sequential Models (HMMs, Kalman, Particle Filters)
+58. Decision Theory and Influence Diagrams
+59. Probabilistic Programming Languages
+60. Calibration, Uncertainty Quantification, Reliability
+
+#### Volume 7 — Machine Learning Theory & Practice
+
+61. Hypothesis Spaces, Bias, and Capacity
+62. Generalization, VC, Rademacher, PAC
+63. Losses, Regularization, and Optimization
+64. Model Selection, Cross-Validation, Bootstrapping
+65. Linear and Generalized Linear Models
+66. Kernel Methods and SVMs
+67. Trees, Random Forests, Gradient Boosting
+68. Feature Selection and Dimensionality Reduction
+69. Imbalanced Data and Cost-Sensitive Learning
+70. Evaluation, Error Analysis, and Debugging
+
+#### Volume 8 — Supervised Learning Systems
+
+71. Regression: From Linear to Nonlinear
+72. Classification: Binary, Multiclass, Multilabel
+73. Structured Prediction (CRFs, Seq2Seq Basics)
+74. Time Series and Forecasting
+75. Tabular Modeling and Feature Stores
+76. Hyperparameter Optimization and AutoML
+77. Interpretability and Explainability (XAI)
+78. Robustness, Adversarial Examples, Hardening
+79. Deployment Patterns for Supervised Models
+80. Monitoring, Drift, and Lifecycle Management
+
+#### Volume 9 — Unsupervised, Self-Supervised & Representation
+
+81. Clustering (k-Means, Hierarchical, DBSCAN)
+82. Density Estimation and Mixture Models
+83. Matrix Factorization and NMF
+84. Dimensionality Reduction (PCA, t-SNE, UMAP)
+85. Manifold Learning and Topological Methods
+86. Topic Models and Latent Dirichlet Allocation
+87. Autoencoders and Representation Learning
+88. Contrastive and Self-Supervised Learning
+89. Anomaly and Novelty Detection
+90. Graph Representation Learning
+
+#### Volume 10 — Deep Learning Core
+
+91. Computational Graphs and Autodiff
+92. Backpropagation and Initialization
+93. Optimizers (SGD, Momentum, Adam, etc.)
+94. Regularization (Dropout, Norms, Batch/Layer Norm)
+95. Convolutional Networks and Inductive Biases
+96. Recurrent Networks and Sequence Models
+97. Attention Mechanisms and Transformers
+98. Architecture Patterns and Design Spaces
+99. Training at Scale (Parallelism, Mixed Precision)
+100. Failure Modes, Debugging, Evaluation
+
+#### Volume 11 — Large Language Models
+
+101. Tokenization, Subwords, and Embeddings
+102. Transformer Architecture Deep Dive
+103. Pretraining Objectives (MLM, CLM, SFT)
+104. Scaling Laws and Data/Compute Tradeoffs
+105. Instruction Tuning, RLHF, and RLAIF
+106. Parameter-Efficient Tuning (Adapters, LoRA)
+107. Retrieval-Augmented Generation (RAG) and Memory
+108. Tool Use, Function Calling, and Agents
+109. Evaluation, Safety, and Prompting Strategies
+110. Production LLM Systems and Cost Optimization
+
+#### Volume 12 — Computer Vision
+
+111. Image Formation and Preprocessing
+112. ConvNets for Recognition
+113. Object Detection and Tracking
+114. Segmentation and Scene Understanding
+115. 3D Vision and Geometry
+116. Self-Supervised and Foundation Models for Vision
+117. Vision Transformers and Hybrid Models
+118. Multimodal Vision-Language (VL) Models
+119. Datasets, Metrics, and Benchmarks
+120. Real-World Vision Systems and Edge Deployment
+
+#### Volume 13 — Natural Language Processing
+
+121. Linguistic Foundations (Morphology, Syntax, Semantics)
+122. Classical NLP (n-Grams, HMMs, CRFs)
+123. Word and Sentence Embeddings
+124. Sequence-to-Sequence and Attention
+125. Machine Translation and Multilingual NLP
+126. Question Answering and Information Retrieval
+127. Summarization and Text Generation
+128. Prompting, In-Context Learning, Program Induction
+129. Evaluation, Bias, and Toxicity in NLP
+130. Low-Resource, Code, and Domain-Specific NLP
+
+#### Volume 14 — Speech & Audio Intelligence
+
+131. Signal Processing and Feature Extraction
+132. Automatic Speech Recognition (CTC, Transducers)
+133. Text-to-Speech and Voice Conversion
+134. Speaker Identification and Diarization
+135. Music Information Retrieval
+136. Audio Event Detection and Scene Analysis
+137. Prosody, Emotion, and Paralinguistics
+138. Multimodal Audio-Visual Learning
+139. Robustness to Noise, Accents, Reverberation
+140. Real-Time and On-Device Audio AI
+
+#### Volume 15 — Reinforcement Learning
+
+141. Markov Decision Processes and Bellman Equations
+142. Dynamic Programming and Planning
+143. Monte Carlo and Temporal-Difference Learning
+144. Value-Based Methods (DQN and Variants)
+145. Policy Gradients and Actor-Critic
+146. Exploration, Intrinsic Motivation, Bandits
+147. Model-Based RL and World Models
+148. Multi-Agent RL and Games
+149. Offline RL, Safety, and Constraints
+150. RL in the Wild: Sim2Real and Applications
+
+#### Volume 16 — Robotics & Embodied AI
+
+151. Kinematics, Dynamics, and Control
+152. Perception for Robotics
+153. SLAM and Mapping
+154. Motion Planning and Trajectory Optimization
+155. Grasping and Manipulation
+156. Locomotion and Balance
+157. Human-Robot Interaction and Collaboration
+158. Simulation, Digital Twins, Domain Randomization
+159. Learning for Manipulation and Navigation
+160. System Integration and Real-World Deployment
+
+#### Volume 17 — Causality, Reasoning & Science
+
+161. Causal Graphs, SCMs, and Do-Calculus
+162. Identification, Estimation, and Transportability
+163. Counterfactuals and Mediation
+164. Causal Discovery from Observational Data
+165. Experiment Design, A/B/n Testing, Uplift
+166. Time Series Causality and Granger
+167. Scientific ML and Differentiable Physics
+168. Symbolic Regression and Program Synthesis
+169. Automated Theorem Proving and Formal Methods
+170. Limits, Fallacies, and Robust Scientific Practice
+
+#### Volume 18 — AI Systems, MLOps & Infrastructure
+
+171. Data Engineering and Feature Stores
+172. Experiment Tracking and Reproducibility
+173. Training Orchestration and Scheduling
+174. Distributed Training and Parallelism
+175. Model Packaging, Serving, and APIs
+176. Monitoring, Telemetry, and Observability
+177. Drift, Feedback Loops, Continuous Learning
+178. Privacy, Security, and Model Governance
+179. Cost, Efficiency, and Green AI
+180. Platform Architecture and Team Practices
+
+#### Volume 19 — Multimodality, Tools & Agents
+
+181. Multimodal Pretraining and Alignment
+182. Cross-Modal Retrieval and Fusion
+183. Vision-Language-Action Models
+184. Memory, Datastores, and RAG Systems
+185. Tool Use, Function APIs, and Plugins
+186. Planning, Decomposition, Toolformer-Style Agents
+187. Multi-Agent Simulation and Coordination
+188. Evaluation of Agents and Emergent Behavior
+189. Human-in-the-Loop and Interactive Systems
+190. Case Studies: Assistants, Copilots, Autonomy
+
+#### Volume 20 — Ethics, Safety, Governance & Futures
+
+191. Ethical Frameworks and Principles
+192. Fairness, Bias, and Inclusion
+193. Privacy, Surveillance, and Consent
+194. Robustness, Reliability, and Safety Engineering
+195. Alignment, Preference Learning, and Control
+196. Misuse, Abuse, and Red-Teaming
+197. Law, Regulation, and International Policy
+198. Economic Impacts, Labor, and Society
+199. Education, Healthcare, and Public Goods
+200. Roadmaps, Open Problems, and Future Scenarios
+
