@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-Numbers weave the world,
-algebra sings hidden forms,
-AI learns the tune.
+Bits fall into place,
+shapes of meaning crystallize,
+data finds its form.
 ```
 
 ## Formats
