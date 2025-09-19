@@ -1,6 +1,6 @@
 ## Contents 
 
-#### [Volume 1 — First Principles of AI](https://little-book-of.github.io/ai/books/en-US/volume_1.html)
+#### [Volume 1. First Principles of AI](https://little-book-of.github.io/ai/books/en-US/volume_1.html)
 
 1. Defining Intelligence, Agents, and Environments
 2. Objectives, Utility, and Reward
@@ -13,7 +13,7 @@
 9. Evaluation: Ground Truth, Metrics, and Benchmarks
 10. Reproducibility, Tooling, and the Scientific Method
 
-#### [Volume 2 — Mathematical Foundations](https://little-book-of.github.io/ai/books/en-US/volume_2.html)
+#### [Volume 2. Mathematical Foundations](https://little-book-of.github.io/ai/books/en-US/volume_2.html)
 
 11. Linear Algebra for Representations
 12. Differential and Integral Calculus
@@ -26,7 +26,7 @@
 19. Logic, Sets, and Proof Techniques
 20. Stochastic Processes and Markov Chains
 
-#### [Volume 3 — Data & Representation](https://little-book-of.github.io/ai/books/en-US/volume_3.html)
+#### [Volume 3. Data & Representation](https://little-book-of.github.io/ai/books/en-US/volume_3.html)
 
 21. Data Lifecycle and Governance
 22. Data Models: Tensors, Tables, Graphs
@@ -39,7 +39,7 @@
 29. Datasets, Benchmarks, and Data Cards
 30. Data Versioning and Lineage
 
-#### [Volume 4 — Search & Planning](https://little-book-of.github.io/ai/books/en-US/volume_4.html)
+#### [Volume 4. Search & Planning](https://little-book-of.github.io/ai/books/en-US/volume_4.html)
 
 31. State Spaces and Problem Formulation
 32. Uninformed Search (BFS, DFS, Iterative Deepening)
@@ -52,7 +52,7 @@
 39. Scheduling and Resource Allocation
 40. Meta-Reasoning and Anytime Algorithms
 
-#### Volume 5 — Logic & Knowledge
+#### [Volume 5. Logic & Knowledge](https://little-book-of.github.io/ai/books/en-US/volume_5.html)
 
 41. Propositional and First-Order Logic
 42. Knowledge Representation Schemes
@@ -65,7 +65,7 @@
 49. Neuro-Symbolic AI: Bridging Learning and Logic
 50. Knowledge Acquisition and Maintenance
 
-#### Volume 6 — Probabilistic Modeling & Inference
+#### Volume 6. Probabilistic Modeling & Inference
 
 51. Bayesian Inference Basics
 52. Directed Graphical Models (Bayesian Networks)
@@ -78,7 +78,7 @@
 59. Probabilistic Programming Languages
 60. Calibration, Uncertainty Quantification, Reliability
 
-#### Volume 7 — Machine Learning Theory & Practice
+#### Volume 7. Machine Learning Theory & Practice
 
 61. Hypothesis Spaces, Bias, and Capacity
 62. Generalization, VC, Rademacher, PAC
@@ -91,7 +91,7 @@
 69. Imbalanced Data and Cost-Sensitive Learning
 70. Evaluation, Error Analysis, and Debugging
 
-#### Volume 8 — Supervised Learning Systems
+#### Volume 8. Supervised Learning Systems
 
 71. Regression: From Linear to Nonlinear
 72. Classification: Binary, Multiclass, Multilabel
@@ -104,7 +104,7 @@
 79. Deployment Patterns for Supervised Models
 80. Monitoring, Drift, and Lifecycle Management
 
-#### Volume 9 — Unsupervised, Self-Supervised & Representation
+#### Volume 9. Unsupervised, Self-Supervised & Representation
 
 81. Clustering (k-Means, Hierarchical, DBSCAN)
 82. Density Estimation and Mixture Models
@@ -117,7 +117,7 @@
 89. Anomaly and Novelty Detection
 90. Graph Representation Learning
 
-#### Volume 10 — Deep Learning Core
+#### Volume 10. Deep Learning Core
 
 91. Computational Graphs and Autodiff
 92. Backpropagation and Initialization
@@ -130,7 +130,7 @@
 99. Training at Scale (Parallelism, Mixed Precision)
 100. Failure Modes, Debugging, Evaluation
 
-#### Volume 11 — Large Language Models
+#### Volume 11. Large Language Models
 
 101. Tokenization, Subwords, and Embeddings
 102. Transformer Architecture Deep Dive
@@ -143,7 +143,7 @@
 109. Evaluation, Safety, and Prompting Strategies
 110. Production LLM Systems and Cost Optimization
 
-#### Volume 12 — Computer Vision
+#### Volume 12. Computer Vision
 
 111. Image Formation and Preprocessing
 112. ConvNets for Recognition
@@ -156,7 +156,7 @@
 119. Datasets, Metrics, and Benchmarks
 120. Real-World Vision Systems and Edge Deployment
 
-#### Volume 13 — Natural Language Processing
+#### Volume 13. Natural Language Processing
 
 121. Linguistic Foundations (Morphology, Syntax, Semantics)
 122. Classical NLP (n-Grams, HMMs, CRFs)
@@ -169,7 +169,7 @@
 129. Evaluation, Bias, and Toxicity in NLP
 130. Low-Resource, Code, and Domain-Specific NLP
 
-#### Volume 14 — Speech & Audio Intelligence
+#### Volume 14. Speech & Audio Intelligence
 
 131. Signal Processing and Feature Extraction
 132. Automatic Speech Recognition (CTC, Transducers)
@@ -182,7 +182,7 @@
 139. Robustness to Noise, Accents, Reverberation
 140. Real-Time and On-Device Audio AI
 
-#### Volume 15 — Reinforcement Learning
+#### Volume 15. Reinforcement Learning
 
 141. Markov Decision Processes and Bellman Equations
 142. Dynamic Programming and Planning
@@ -195,7 +195,7 @@
 149. Offline RL, Safety, and Constraints
 150. RL in the Wild: Sim2Real and Applications
 
-#### Volume 16 — Robotics & Embodied AI
+#### Volume 16. Robotics & Embodied AI
 
 151. Kinematics, Dynamics, and Control
 152. Perception for Robotics
@@ -208,7 +208,7 @@
 159. Learning for Manipulation and Navigation
 160. System Integration and Real-World Deployment
 
-#### Volume 17 — Causality, Reasoning & Science
+#### Volume 17. Causality, Reasoning & Science
 
 161. Causal Graphs, SCMs, and Do-Calculus
 162. Identification, Estimation, and Transportability
@@ -221,7 +221,7 @@
 169. Automated Theorem Proving and Formal Methods
 170. Limits, Fallacies, and Robust Scientific Practice
 
-#### Volume 18 — AI Systems, MLOps & Infrastructure
+#### Volume 18. AI Systems, MLOps & Infrastructure
 
 171. Data Engineering and Feature Stores
 172. Experiment Tracking and Reproducibility
@@ -234,7 +234,7 @@
 179. Cost, Efficiency, and Green AI
 180. Platform Architecture and Team Practices
 
-#### Volume 19 — Multimodality, Tools & Agents
+#### Volume 19. Multimodality, Tools & Agents
 
 181. Multimodal Pretraining and Alignment
 182. Cross-Modal Retrieval and Fusion
@@ -247,7 +247,7 @@
 189. Human-in-the-Loop and Interactive Systems
 190. Case Studies: Assistants, Copilots, Autonomy
 
-#### Volume 20 — Ethics, Safety, Governance & Futures
+#### Volume 20. Ethics, Safety, Governance & Futures
 
 191. Ethical Frameworks and Principles
 192. Fairness, Bias, and Inclusion
