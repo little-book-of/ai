@@ -4,7 +4,7 @@ project:
 
 book:
   title: &book_title "The Little Book of Artificial Intelligence"
-  subtitle: &book_subtitle "Version 0.1.2"
+  subtitle: &book_subtitle "Version 0.1.3"
   author: &book_author "Duc-Tam Nguyen"
   date: &book_date "2025-09-18"
   output-file: book
@@ -13,6 +13,7 @@ book:
     - books/en-US/volume_1.qmd
     - books/en-US/volume_2.qmd
     - books/en-US/volume_3.qmd
+    - books/en-US/volume_4.qmd
 
 website:
   title: *book_title

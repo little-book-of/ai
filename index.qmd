@@ -1,6 +1,6 @@
 ## Contents 
 
-#### Volume 1 — First Principles of AI
+#### [Volume 1 — First Principles of AI](https://little-book-of.github.io/ai/books/en-US/volume_1.html)
 
 1. Defining Intelligence, Agents, and Environments
 2. Objectives, Utility, and Reward
@@ -13,7 +13,7 @@
 9. Evaluation: Ground Truth, Metrics, and Benchmarks
 10. Reproducibility, Tooling, and the Scientific Method
 
-#### Volume 2 — Mathematical Foundations
+#### [Volume 2 — Mathematical Foundations](https://little-book-of.github.io/ai/books/en-US/volume_2.html)
 
 11. Linear Algebra for Representations
 12. Differential and Integral Calculus
@@ -26,7 +26,7 @@
 19. Logic, Sets, and Proof Techniques
 20. Stochastic Processes and Markov Chains
 
-#### Volume 3 — Data & Representation
+#### [Volume 3 — Data & Representation](https://little-book-of.github.io/ai/books/en-US/volume_3.html)
 
 21. Data Lifecycle and Governance
 22. Data Models: Tensors, Tables, Graphs
@@ -39,7 +39,7 @@
 29. Datasets, Benchmarks, and Data Cards
 30. Data Versioning and Lineage
 
-#### Volume 4 — Search & Planning
+#### [Volume 4 — Search & Planning](https://little-book-of.github.io/ai/books/en-US/volume_4.html)
 
 31. State Spaces and Problem Formulation
 32. Uninformed Search (BFS, DFS, Iterative Deepening)

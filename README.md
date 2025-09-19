@@ -13,7 +13,7 @@ data finds its form.
 - [Download PDF](docs/book.pdf) — print-ready
 - [Download EPUB](docs/book.epub) — e-reader friendly
 - [View LaTeX](docs/book-latex/book.tex) — `.tex` source
-- [Read on GitHub Pages](https://little-book-of.github.io/algorithms/) — online website
+- [Read on GitHub Pages](https://little-book-of.github.io/ai/) — online website
 
 ## Build it yourself (Quarto)
 
@@ -60,7 +60,7 @@ All contributions are welcome—small fixes, new examples, clarifications, figur
 Nguyen, Duc-Tam (2025). *The Little Book of Artificial Intelligence*
 
 ```
-@book{Nguyen2025TLBoAlgo,
+@book{Nguyen2025TLBoAI,
   author = {Duc-Tam Nguyen},
   title  = {The Little Book of Artificial Intelligence},
   year   = {2025},
