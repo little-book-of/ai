@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-Logic wears a cape,
-saving AI from nonsense,
-truth tables in hand.
+Coins spin in the air,
+probabilities whisper,
+outcomes find their weight.
 ```
 
 ## Formats
