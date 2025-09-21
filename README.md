@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-Little model learns,
-mistakes pile like building blocks,
-oops becomes wisdom.
+Teacher hands the key,
+labels guide the eager mind,
+answers light the way.
 ```
 
 ## Formats
