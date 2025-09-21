@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-Coins spin in the air,
-probabilities whisper,
-outcomes find their weight.
+Little model learns,
+mistakes pile like building blocks,
+oops becomes wisdom.
 ```
 
 ## Formats

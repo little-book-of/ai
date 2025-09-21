@@ -78,7 +78,7 @@
 59. Probabilistic Programming Languages
 60. Calibration, Uncertainty Quantification, Reliability
 
-#### Volume 7. Machine Learning Theory & Practice
+#### [Volume 7. Machine Learning Theory & Practice](https://little-book-of.github.io/ai/books/en-US/volume_7.html)
 
 61. Hypothesis Spaces, Bias, and Capacity
 62. Generalization, VC, Rademacher, PAC
