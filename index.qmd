@@ -117,7 +117,7 @@
 89. Anomaly and Novelty Detection
 90. Graph Representation Learning
 
-#### Volume 10. Deep Learning Core
+#### [Volume 10. Deep Learning Core](https://little-book-of.github.io/ai/books/en-US/volume_10.html)
 
 91. Computational Graphs and Autodiff
 92. Backpropagation and Initialization

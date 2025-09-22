@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-No teacher in sight,
-patterns whisper in the dark,
-structure finds itself.
+Layers stack so high,
+neural nets like pancakes rise,
+AI gets syrup. 🥞
 ```
 
 ## Formats
