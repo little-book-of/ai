@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-Teacher hands the key,
-labels guide the eager mind,
-answers light the way.
+No teacher in sight,
+patterns whisper in the dark,
+structure finds itself.
 ```
 
 ## Formats
