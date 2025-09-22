@@ -91,7 +91,7 @@
 69. Imbalanced Data and Cost-Sensitive Learning
 70. Evaluation, Error Analysis, and Debugging
 
-#### Volume 8. Supervised Learning Systems
+#### [Volume 8. Supervised Learning Systems](https://little-book-of.github.io/ai/books/en-US/volume_8.html)
 
 71. Regression: From Linear to Nonlinear
 72. Classification: Binary, Multiclass, Multilabel
@@ -104,7 +104,7 @@
 79. Deployment Patterns for Supervised Models
 80. Monitoring, Drift, and Lifecycle Management
 
-#### Volume 9. Unsupervised, Self-Supervised & Representation
+#### [Volume 9. Unsupervised, Self-Supervised & Representation](https://little-book-of.github.io/ai/books/en-US/volume_9.html)
 
 81. Clustering (k-Means, Hierarchical, DBSCAN)
 82. Density Estimation and Mixture Models
