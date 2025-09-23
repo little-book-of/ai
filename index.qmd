@@ -130,7 +130,7 @@
 99. Training at Scale (Parallelism, Mixed Precision)
 100. Failure Modes, Debugging, Evaluation
 
-#### Volume 11. Large Language Models
+#### [Volume 11. Large Language Models](https://little-book-of.github.io/ai/books/en-US/volume_11.html)
 
 101. Tokenization, Subwords, and Embeddings
 102. Transformer Architecture Deep Dive

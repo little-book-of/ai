@@ -3,9 +3,9 @@
 A concise, beginner-friendly introduction to Artificial Intelligence.
 
 ```
-Layers stack so high,
-neural nets like pancakes rise,
-AI gets syrup. 🥞
+Giant brain of words,
+dreaming in a trillion lines,
+poetry sparks out.
 ```
 
 ## Formats
